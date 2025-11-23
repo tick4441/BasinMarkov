@@ -33,6 +33,7 @@ Pretrained BasinMarkov will be in releases. check releases for the pretrained mo
 before running, make sure you have python3, python3-pip, zlib from pip and sqlite3 from pip installed. install via this command:
 
 pip install sqlite3 zlib
+
 you can get python here: https://www.python.org/downloads/ 
 
 python3-pip, python3 is only needed for linux/macos/unix. windows installer autoinstalls pip.
