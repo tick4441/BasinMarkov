@@ -29,3 +29,12 @@ This project is also designed to see how amazing markov models can be and just h
 Have fun!
 
 Pretrained BasinMarkov will be in releases. check releases for the pretrained model.
+
+before running, make sure you have python3, python3-pip, zlib from pip and sqlite3 from pip installed. install via this command:
+
+pip install sqlite3 zlib
+you can get python here: https://www.python.org/downloads/ 
+
+python3-pip, python3 is only needed for linux/macos/unix. windows installer autoinstalls pip.
+
+you can also optionally get python-is-python3 where you don't have to type python3 but rather python. it is not required but just for convience and preference.
