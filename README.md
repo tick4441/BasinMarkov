@@ -27,3 +27,5 @@ BasinMarkov is an experimental markov model. it is not acctually designed to com
 This project is also designed to see how amazing markov models can be and just how powerful they can be as chatbots.
 
 Have fun!
+
+Pretrained BasinMarkov will be in releases. check releases for the pretrained model.
