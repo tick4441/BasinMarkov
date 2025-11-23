@@ -8,3 +8,5 @@ basin_markov.db: the model itself! it is created in the same directory as basin.
 basin_markov.db-shm: worker file for basin_model.db when chatting or training. do not delete!
 
 basin_markov.db-wal: worker file for basin_model.db when chatting or training. do not delete!
+
+savechat.py: easily save your chat history to a txt file for easy finetuning on your own conversations! super simple and easy!
